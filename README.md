@@ -3,6 +3,8 @@ Bu proje SAPUI5 kullanılarak tasarlanan bir fatura ekranıdır ve detaylandır�
 yapılabilir. İlgili ürün seçildiğinde ise ürüne ait tüm özellikler gösterilmiş olup, 5li puan sistemi olarak puanlandırma yapılabilmektedir.
 
 ![image](https://github.com/user-attachments/assets/7be16bb1-e35e-4051-acb0-33ee1fa2faf7)
+
+
 ![image](https://github.com/user-attachments/assets/b28c34f0-369d-4610-9b23-a66f2419306c)
 
 Kullanılan Teknolojiler:
